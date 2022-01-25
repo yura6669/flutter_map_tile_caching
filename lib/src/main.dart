@@ -182,7 +182,6 @@ class StorageCachingTileProvider extends TileProvider {
                   AndroidNotificationDetails(
                 'MapDownloading',
                 'Map Background Downloader',
-                'Displays progress notifications to inform the user about the progress of their map download.',
                 importance: Importance.defaultImportance,
                 priority: Priority.low,
                 showWhen: false,
